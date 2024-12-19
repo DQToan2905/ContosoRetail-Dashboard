@@ -90,7 +90,7 @@ A customer dashboard providing detailed insights into customer demographics, beh
 
 #### b. **Number of Customers by Age**
 
-- A histogram illustrates the age distribution of customers, with the highest concentration between 30 to 50 years old.
+- A histogram illustrates the age distribution of customers, with the highest concentration between 30 to 50 years old. 
 
 #### c. **Total Sales by Occupation**
 
