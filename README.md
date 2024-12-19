@@ -1,6 +1,7 @@
 # Sales
 
-![image](https://github.com/user-attachments/assets/799cab39-2858-48cb-afc1-6afc0c675d38)
+![image](https://github.com/user-attachments/assets/51a9ec7a-42f7-4e11-bd64-cc8719c5aa92)
+
 
 ## Overview
 
@@ -62,7 +63,8 @@ The sales dashboard provides a detailed overview of performance metrics and tren
 
 # Customer
 
-![image](https://github.com/user-attachments/assets/7feae99b-e769-409f-8654-12c228352b18)
+![image](https://github.com/user-attachments/assets/9d6fb271-8815-477a-8454-139867d5f7cb)
+
 
 ## Overview
 
@@ -133,7 +135,8 @@ The customer dashboard offers valuable insights into the demographic and behavio
 
 # Product and Order
 
-![image](https://github.com/user-attachments/assets/0fb928a3-401b-4f87-84df-74b1b399a03b)
+![image](https://github.com/user-attachments/assets/42d7191e-5e6d-4cdf-a838-a9d655612874)
+
 
 ## Overview
 
